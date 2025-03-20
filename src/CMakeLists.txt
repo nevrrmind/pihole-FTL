@@ -225,6 +225,8 @@ set(sources
         args.h
         capabilities.c
         capabilities.h
+        containerinfo.c
+        containerinfo.h
         daemon.c
         daemon.h
         datastructure.c
